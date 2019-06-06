@@ -1,3 +1,7 @@
+SECOND ACTION
+
 this is the test file
 from version 1 
 from first commit
+
+now updated by version 2
